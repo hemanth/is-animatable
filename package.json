@@ -1,0 +1,37 @@
+{
+  "name": "is-animatable",
+  "version": "0.0.0",
+  "description": "Checks if a given CSS property is animatable or not.",
+  "license": "MIT",
+  "repository": "hemanth/is-animatable",
+  "author": {
+    "name": "",
+    "email": "",
+    "url": "h3manth.com"
+  },
+  "bin": "cli.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js",
+  ],
+  "keywords": [
+    "css",
+    "animatable",
+    "check",
+    "test",
+    "animation"
+  ],
+  "dependencies": {
+    "animatable-css-properties": "^1.0.0",
+    "strip-vendor-prefix": "^1.0.0",
+    "vendor-prefixes": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "^0.12.0"
+  }
+}
