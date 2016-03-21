@@ -1,6 +1,6 @@
 {
   "name": "is-animatable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if a given CSS property is animatable or not.",
   "license": "MIT",
   "repository": "hemanth/is-animatable",
